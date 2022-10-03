@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        //task1
+        // все задания
+        // task1
         int i;
         byte b;
         short s;
